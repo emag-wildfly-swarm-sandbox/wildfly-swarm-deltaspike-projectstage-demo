@@ -1,0 +1,5 @@
+org.apache.deltaspike.ProjectStage: Production
+---
+project:
+  stage: it
+org.apache.deltaspike.ProjectStage: IntegrationTest
